@@ -11,7 +11,6 @@ authors = [
   { name = "Johannes Maron", email = "johannes@maron.family" }
 ]
 urls = {Repository = "https://github.com/revsys/django-health-check", Documentation = "https://django-health-check.readthedocs.io"}
-homepage = 
 keywords = ["django", "postgresql"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
